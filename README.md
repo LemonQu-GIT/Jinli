@@ -16,7 +16,7 @@
 
 现有功能如下，之后将逐步加入新功能
 
-| 功能                    | HuayuChatting | HuayuGLM |
+| 功能                    | HuayuChatting | Jinli |
 | ----------------------- | ------------- | -------- |
 | age_chart               | ✅             | ❌        |
 | chatting_part           | ✅             | ✅        |
@@ -69,7 +69,7 @@
 ### Data
 
 ```
-HuayuGLM 
+Jinli 
 └─data
        log.txt # QQ群聊天记录
        schoolID.json # 会自动生成
