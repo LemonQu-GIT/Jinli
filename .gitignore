@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*$py.class
+data/*
+bot.py
+latest.log
+config.json
